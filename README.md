@@ -1,5 +1,8 @@
 # Parisa Faridi
 
+## Hey 👋🏻,
+ Android developer
+
 ## 📬 Get in touch
 
 - - LinkedIn: [linkedin.com/ParisaFaridi][2]
