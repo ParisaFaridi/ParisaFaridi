@@ -2,8 +2,9 @@
 
 ## 📬 Get in touch
 
-- LinkedIn: linkedin.com/in/parisafaridi/
-- Email   : parisa.faridi80@gmail.com
+- - Email: [parisa.faridi80@gmail.com][1]
+- - LinkedIn: [linkedin.com/ParisaFaridi][2]
+
 
 ## GitHub Profile Trophy
 
@@ -21,3 +22,4 @@
 </a>
 
 [2]: (https://www.linkedin.com/in/parisafaridi/)
+[1]: (parisa.faridi80@gmail.com)
