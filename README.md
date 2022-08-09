@@ -2,7 +2,6 @@
 
 ## 📬 Get in touch
 
-- - Email: [parisa.faridi80@gmail.com][1]
 - - LinkedIn: [linkedin.com/ParisaFaridi][2]
 
 
@@ -21,5 +20,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaFaridi&hide=Jupyter Notebook,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[1]: parisa.faridi80@gmail.com
 [2]: https://www.linkedin.com/in/parisafaridi/
