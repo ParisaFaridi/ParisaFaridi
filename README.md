@@ -1,6 +1,5 @@
 # Parisa Faridi
 
-## Hey 👋🏻,
  Android developer
 
 ## 📬 Get in touch
