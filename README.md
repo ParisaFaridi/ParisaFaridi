@@ -1,6 +1,6 @@
 # Parisa Faridi
 
- Android developer
+ Android/React developer
 
 ## 📬 Get in touch
 
